@@ -1,4 +1,4 @@
-# Daily-Coadibg-Problem-19
+# Daily-Coding-Problem-19
 Daily Coadibg Problem Challenge
 
 This problem was asked by Facebook.
